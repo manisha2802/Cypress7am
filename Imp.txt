@@ -1,0 +1,4 @@
+npx cypress run --spec 'cypress/integration/4-window/Wrap.spec.js'  //To run speific file in headless 
+
+npx cypress run --headed --spec 'cypress/integration/4-window/Wrap.spec.js' //headed mode
+
